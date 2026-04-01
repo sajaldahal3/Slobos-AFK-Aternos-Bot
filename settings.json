@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "127.0.0.1",
+    "ip": "Chautari-SMP.play.hosting",
     "port": 63083,
     "version": false,
     "try-creative": false
