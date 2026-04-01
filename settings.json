@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Chautari-SMP.play.hosting",
-    "port": 63083,
+    "port": 25575,
     "version": "1.21.11",
     "try-creative": false
   },
